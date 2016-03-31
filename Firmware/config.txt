@@ -18,3 +18,5 @@ daily_photo = True
 wu_api_key = 68b2645641523842
 wu_state = ID
 wu_city = Sandpoint
+
+modified
