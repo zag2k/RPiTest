@@ -1,0 +1,11 @@
+*/5 * * * * /home/pi/RPiWebCam/Firmware/sunrise-sunset-cam.py
+*/30 * * * * /home/pi/RPiWebCam/Firmware/sunset-sunrise-cam.py
+*/1 * * * * sleep 15;/home/pi/RPiWebCam/Firmware/daily-timelapse-cam.py
+30 1 * * * /home/pi/RPiWebCam/Firmware/daily-photo.py
+0 15 * * * /home/pi/RPiWebCam/Firmware/daily-timelapse-schedule.py
+#*/1 * * * * /home/pi/RPiWebCam/Firmware/instapic-upload.py
+0 13 * * * /home/pi/RPiWebCam/Firmware/daily-timelapse.py
+0 1 * * * /home/pi/RPiWebCam/Firmware/daily-timelapse-cleanup.py
+0 5 * * * sleep 45;/home/pi/RPiWebCam/Firmware/system-info.py
+0 21 * * * sleep 45;/home/pi/RPiWebCam/Firmware/system-info.py
+0 2 * * * python /home/pi/RPiWebCam/Firmware/firmware-update.py

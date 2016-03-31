@@ -1,0 +1,78 @@
+2016-03-31 11:15:06,163 - DEBUG - gdrive_uploader.py - notify: False
+2016-03-31 11:15:08,214 - DEBUG - gdrive_uploader.py - ID for RPiWebCam: 0B27deruG1ZscfnlqQzQzczlUbWd5V2FJY29DZEl6ajVfcVM1YkptZnN5UzN0WDNaYURVNjQ
+2016-03-31 11:15:08,218 - DEBUG - gdrive_uploader.py - q: title = 'Lake' and '0B27deruG1ZscfnlqQzQzczlUbWd5V2FJY29DZEl6ajVfcVM1YkptZnN5UzN0WDNaYURVNjQ' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:15:08,748 - DEBUG - gdrive_uploader.py - ID for Lake: 0B27deruG1ZscZEMtWkFES0VrcTQ
+2016-03-31 11:15:08,752 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscZEMtWkFES0VrcTQ&usp=drivesdk
+2016-03-31 11:15:08,757 - DEBUG - gdrive_uploader.py - q: title = 'A' and '0B27deruG1ZscZEMtWkFES0VrcTQ' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:15:09,352 - DEBUG - gdrive_uploader.py - ID for A: 0B27deruG1ZscdW1fOVkyLVVuaGM
+2016-03-31 11:15:09,357 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscdW1fOVkyLVVuaGM&usp=drivesdk
+2016-03-31 11:15:09,361 - DEBUG - gdrive_uploader.py - q: title = 'Daily' and '0B27deruG1ZscdW1fOVkyLVVuaGM' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:15:09,907 - DEBUG - gdrive_uploader.py - ID for Daily: 0B27deruG1ZscTmx0dWpNZGlMZWc
+2016-03-31 11:15:09,911 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscTmx0dWpNZGlMZWc&usp=drivesdk
+2016-03-31 11:15:09,915 - DEBUG - gdrive_uploader.py - q: title = '2016-03-31' and '0B27deruG1ZscTmx0dWpNZGlMZWc' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:15:10,429 - DEBUG - gdrive_uploader.py - ID for 2016-03-31: 0B27deruG1ZscOHFmdFdCQ1JkWmc
+2016-03-31 11:15:10,433 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscOHFmdFdCQ1JkWmc&usp=drivesdk
+2016-03-31 11:15:10,436 - DEBUG - gdrive_uploader.py - folder_name: 2016-03-31
+2016-03-31 11:15:10,439 - DEBUG - gdrive_uploader.py - folder_link: https://docs.google.com/folderview?id=0B27deruG1ZscOHFmdFdCQ1JkWmc&usp=drivesdk
+2016-03-31 11:15:10,442 - DEBUG - gdrive_uploader.py - new_revision: True
+2016-03-31 11:15:10,445 - DEBUG - gdrive_uploader.py - parent_id: 0B27deruG1ZscOHFmdFdCQ1JkWmc
+2016-03-31 11:15:10,448 - DEBUG - gdrive_uploader.py - title: 2016-03-31-11-15.jpg
+2016-03-31 11:15:10,977 - DEBUG - gdrive_uploader.py - FILE DOES NOT EXIST
+2016-03-31 11:15:10,981 - DEBUG - gdrive_uploader.py - Uploading File
+2016-03-31 11:15:10,986 - DEBUG - gdrive_uploader.py - mime_type: image/jpeg
+2016-03-31 11:30:06,287 - DEBUG - gdrive_uploader.py - source_path: /home/pi/RPiWebCam/Daily/
+2016-03-31 11:30:06,292 - DEBUG - gdrive_uploader.py - source_file_name: 2016-03-31-11-30.jpg
+2016-03-31 11:30:06,295 - DEBUG - gdrive_uploader.py - gdrive_path: /Lake/A/Daily/2016-03-31/
+2016-03-31 11:30:06,299 - DEBUG - gdrive_uploader.py - gdrive_file_name: 2016-03-31-11-30.jpg
+2016-03-31 11:30:06,302 - DEBUG - gdrive_uploader.py - file_description: Sunrise-Sunset Image
+2016-03-31 11:30:06,306 - DEBUG - gdrive_uploader.py - new_file_revision: True
+2016-03-31 11:30:06,310 - DEBUG - gdrive_uploader.py - notify: False
+2016-03-31 11:30:15,528 - DEBUG - gdrive_uploader.py - ID for RPiWebCam: 0B27deruG1ZscfnlqQzQzczlUbWd5V2FJY29DZEl6ajVfcVM1YkptZnN5UzN0WDNaYURVNjQ
+2016-03-31 11:30:15,531 - DEBUG - gdrive_uploader.py - q: title = 'Lake' and '0B27deruG1ZscfnlqQzQzczlUbWd5V2FJY29DZEl6ajVfcVM1YkptZnN5UzN0WDNaYURVNjQ' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:30:16,777 - DEBUG - gdrive_uploader.py - ID for Lake: 0B27deruG1ZscZEMtWkFES0VrcTQ
+2016-03-31 11:30:16,781 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscZEMtWkFES0VrcTQ&usp=drivesdk
+2016-03-31 11:30:16,785 - DEBUG - gdrive_uploader.py - q: title = 'A' and '0B27deruG1ZscZEMtWkFES0VrcTQ' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:30:17,780 - DEBUG - gdrive_uploader.py - ID for A: 0B27deruG1ZscdW1fOVkyLVVuaGM
+2016-03-31 11:30:17,783 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscdW1fOVkyLVVuaGM&usp=drivesdk
+2016-03-31 11:30:17,787 - DEBUG - gdrive_uploader.py - q: title = 'Daily' and '0B27deruG1ZscdW1fOVkyLVVuaGM' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:30:18,816 - DEBUG - gdrive_uploader.py - ID for Daily: 0B27deruG1ZscTmx0dWpNZGlMZWc
+2016-03-31 11:30:18,820 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscTmx0dWpNZGlMZWc&usp=drivesdk
+2016-03-31 11:30:18,825 - DEBUG - gdrive_uploader.py - q: title = '2016-03-31' and '0B27deruG1ZscTmx0dWpNZGlMZWc' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:30:20,449 - DEBUG - gdrive_uploader.py - ID for 2016-03-31: 0B27deruG1ZscOHFmdFdCQ1JkWmc
+2016-03-31 11:30:20,454 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscOHFmdFdCQ1JkWmc&usp=drivesdk
+2016-03-31 11:30:20,458 - DEBUG - gdrive_uploader.py - folder_name: 2016-03-31
+2016-03-31 11:30:20,461 - DEBUG - gdrive_uploader.py - folder_link: https://docs.google.com/folderview?id=0B27deruG1ZscOHFmdFdCQ1JkWmc&usp=drivesdk
+2016-03-31 11:30:20,466 - DEBUG - gdrive_uploader.py - new_revision: True
+2016-03-31 11:30:20,469 - DEBUG - gdrive_uploader.py - parent_id: 0B27deruG1ZscOHFmdFdCQ1JkWmc
+2016-03-31 11:30:20,474 - DEBUG - gdrive_uploader.py - title: 2016-03-31-11-30.jpg
+2016-03-31 11:30:21,848 - DEBUG - gdrive_uploader.py - FILE DOES NOT EXIST
+2016-03-31 11:30:21,851 - DEBUG - gdrive_uploader.py - Uploading File
+2016-03-31 11:30:21,855 - DEBUG - gdrive_uploader.py - mime_type: image/jpeg
+2016-03-31 11:45:06,191 - DEBUG - gdrive_uploader.py - source_path: /home/pi/RPiWebCam/Daily/
+2016-03-31 11:45:06,194 - DEBUG - gdrive_uploader.py - source_file_name: 2016-03-31-11-45.jpg
+2016-03-31 11:45:06,197 - DEBUG - gdrive_uploader.py - gdrive_path: /Lake/A/Daily/2016-03-31/
+2016-03-31 11:45:06,201 - DEBUG - gdrive_uploader.py - gdrive_file_name: 2016-03-31-11-45.jpg
+2016-03-31 11:45:06,204 - DEBUG - gdrive_uploader.py - file_description: Sunrise-Sunset Image
+2016-03-31 11:45:06,206 - DEBUG - gdrive_uploader.py - new_file_revision: True
+2016-03-31 11:45:06,209 - DEBUG - gdrive_uploader.py - notify: False
+2016-03-31 11:45:07,995 - DEBUG - gdrive_uploader.py - ID for RPiWebCam: 0B27deruG1ZscfnlqQzQzczlUbWd5V2FJY29DZEl6ajVfcVM1YkptZnN5UzN0WDNaYURVNjQ
+2016-03-31 11:45:07,998 - DEBUG - gdrive_uploader.py - q: title = 'Lake' and '0B27deruG1ZscfnlqQzQzczlUbWd5V2FJY29DZEl6ajVfcVM1YkptZnN5UzN0WDNaYURVNjQ' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:45:08,491 - DEBUG - gdrive_uploader.py - ID for Lake: 0B27deruG1ZscZEMtWkFES0VrcTQ
+2016-03-31 11:45:08,494 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscZEMtWkFES0VrcTQ&usp=drivesdk
+2016-03-31 11:45:08,498 - DEBUG - gdrive_uploader.py - q: title = 'A' and '0B27deruG1ZscZEMtWkFES0VrcTQ' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:45:09,052 - DEBUG - gdrive_uploader.py - ID for A: 0B27deruG1ZscdW1fOVkyLVVuaGM
+2016-03-31 11:45:09,056 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscdW1fOVkyLVVuaGM&usp=drivesdk
+2016-03-31 11:45:09,060 - DEBUG - gdrive_uploader.py - q: title = 'Daily' and '0B27deruG1ZscdW1fOVkyLVVuaGM' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:45:09,668 - DEBUG - gdrive_uploader.py - ID for Daily: 0B27deruG1ZscTmx0dWpNZGlMZWc
+2016-03-31 11:45:09,672 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscTmx0dWpNZGlMZWc&usp=drivesdk
+2016-03-31 11:45:09,676 - DEBUG - gdrive_uploader.py - q: title = '2016-03-31' and '0B27deruG1ZscTmx0dWpNZGlMZWc' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false
+2016-03-31 11:45:10,307 - DEBUG - gdrive_uploader.py - ID for 2016-03-31: 0B27deruG1ZscOHFmdFdCQ1JkWmc
+2016-03-31 11:45:10,311 - DEBUG - gdrive_uploader.py - https://docs.google.com/folderview?id=0B27deruG1ZscOHFmdFdCQ1JkWmc&usp=drivesdk
+2016-03-31 11:45:10,314 - DEBUG - gdrive_uploader.py - folder_name: 2016-03-31
+2016-03-31 11:45:10,317 - DEBUG - gdrive_uploader.py - folder_link: https://docs.google.com/folderview?id=0B27deruG1ZscOHFmdFdCQ1JkWmc&usp=drivesdk
+2016-03-31 11:45:10,321 - DEBUG - gdrive_uploader.py - new_revision: True
+2016-03-31 11:45:10,323 - DEBUG - gdrive_uploader.py - parent_id: 0B27deruG1ZscOHFmdFdCQ1JkWmc
+2016-03-31 11:45:10,327 - DEBUG - gdrive_uploader.py - title: 2016-03-31-11-45.jpg
+2016-03-31 11:45:10,821 - DEBUG - gdrive_uploader.py - FILE DOES NOT EXIST
+2016-03-31 11:45:10,824 - DEBUG - gdrive_uploader.py - Uploading File
+2016-03-31 11:45:10,827 - DEBUG - gdrive_uploader.py - mime_type: image/jpeg

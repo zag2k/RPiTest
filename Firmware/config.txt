@@ -1,0 +1,20 @@
+[camera]
+application_folder = RPiWebCam
+location = Lake
+camera_name = A
+logs_path = /home/pi/RPiWebCam/Logs/
+firmware_path = /home/pi/RPiWebCam/Firmware/
+firmware_updates_path = /Lake/A/Firmware Updates/
+default_vflip = False
+default_hflip = False
+default_resolution_w = 1920
+default_resolution_h = 1080
+default_shutter_speed = 700
+pushover_notifications = True
+sunrise_sunset = True
+sunset_sunrise = True
+daily_timelapse = True
+daily_photo = True
+wu_api_key = 68b2645641523842
+wu_state = ID
+wu_city = Sandpoint
