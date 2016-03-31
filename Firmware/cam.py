@@ -14,6 +14,8 @@ else:
 
 import time
 
+second new feature
+
 configParser = parser.RawConfigParser()   
 configFilePath = '/home/pi/RPiWebCam/Firmware/config.txt'
 configParser.read(configFilePath)
