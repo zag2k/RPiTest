@@ -2,6 +2,8 @@
 
 # To be used with WebIOPi <https://code.google.com/p/webiopi/>
 
+adding a new feature
+
 import webiopi
 import psutil
 import os
