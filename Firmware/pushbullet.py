@@ -17,6 +17,8 @@ import requests
 from requests.auth import HTTPBasicAuth
 from websocket import create_connection
 
+this should be in first new feature
+
 HOST = "https://api.pushbullet.com/v2"
 
 
